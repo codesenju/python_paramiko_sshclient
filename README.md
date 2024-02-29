@@ -1,4 +1,4 @@
-# Intro to Python SSH Client Pramiko
+# Intro to Python SSH Client Paramiko
 
 ## Prerequisites
 - [Docker](https://docs.docker.com/engine/install/)
